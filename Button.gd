@@ -14,6 +14,7 @@ var counter = 0
 var safe_counter = 0
 var counter_time = 0
 
+
 func onBtnClick():
 	var x =get_node('../LineEdit')
 	var y = get_node('../LineEdit2')

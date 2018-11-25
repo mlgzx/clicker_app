@@ -10,7 +10,7 @@ config_version=3
 
 [application]
 
-config/name="my_project1"
+config/name="clicker_app"
 run/main_scene="res://Label.tscn"
 config/icon="res://icon.png"
 
